@@ -1,0 +1,9 @@
+AI Tool used, ChatGPT. 
+
+Some prompts. 
+
+How do i create a interesting flower using Python. Gave me one, then i asked "How was that created" used it to create the petals you see in front of the house using loops and and a (t.left(60) making it rotate 6 times creating 6 petals. 
+
+Asked for help when it came to moving variables around, such as how to position multiple item, used the prompt. "After creating the "blueprints" for the different pieces in the scene, how do i draw them into specific places? 
+
+Had to ask how to keep tab open.
